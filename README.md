@@ -1,5 +1,6 @@
-📊 Mobile Sales Dashboard – Power BI Project
-📌 Project Overview
+#📊 Mobile Sales Dashboard – Power BI Project
+
+##📌 Project Overview
 
 The Mobile Sales Dashboard is an interactive Business Intelligence solution developed using Microsoft Power BI to analyze and monitor mobile phone sales performance.
 
@@ -7,7 +8,7 @@ This dashboard provides a comprehensive view of sales metrics, product performan
 
 The project focuses on transforming raw sales data into meaningful insights through data modeling, DAX calculations, and interactive visualizations.
 
-🎯 Objectives
+##🎯 Objectives
 
 Analyze overall mobile sales performance.
 
@@ -21,7 +22,7 @@ Compare performance against targets.
 
 Enable dynamic filtering for deeper analysis.
 
-🛠️ Tools & Technologies Used
+##🛠️ Tools & Technologies Used
 
 Microsoft Power BI
 
@@ -33,7 +34,7 @@ Data Modeling (Relationships & Schema Design)
 
 Interactive Visualizations & KPI Cards
 
-📂 Dataset Description
+##📂 Dataset Description
 
 The dataset contains transactional-level mobile sales data, including:
 
@@ -63,7 +64,8 @@ Correct data types
 
 Standardized formatting
 
-📊 Key Features of the Dashboard
+##📊 Key Features of the Dashboard
+
 1️⃣ KPI Overview Section
 
 Total Sales Revenue
@@ -118,7 +120,7 @@ Model
 
 Allows users to dynamically explore data and drill down into specific segments.
 
-🧮 DAX Measures Implemented
+##🧮 DAX Measures Implemented
 
 Some important DAX measures used:
 
@@ -134,7 +136,7 @@ Target Achievement % = DIVIDE([Total Sales], [Target])
 
 These measures ensure dynamic and accurate calculations based on selected filters.
 
-🏗️ Data Modeling Approach
+##🏗️ Data Modeling Approach
 
 Established relationships between fact and dimension tables.
 
@@ -144,7 +146,7 @@ Ensured proper cardinality and cross-filter direction.
 
 Followed best practices to maintain scalability and performance efficiency.
 
-📈 Business Insights Generated
+##📈 Business Insights Generated
 
 Identified top-performing brands contributing maximum revenue.
 
@@ -156,7 +158,7 @@ Analyzed regional sales gaps.
 
 Evaluated profitability trends across products.
 
-🚀 Business Impact
+##🚀 Business Impact
 
 This dashboard helps management to:
 
@@ -170,21 +172,7 @@ Enhance regional sales strategies
 
 Focus on high-profit product segments
 
-📷 Dashboard Preview
-
-(Add screenshots of your dashboard here)
-
-📌 How to Use
-
-Download the .pbix file.
-
-Open it using Microsoft Power BI Desktop.
-
-Use the slicers and filters to explore different insights.
-
-Customize visuals as per business requirements.
-
-🔮 Future Improvements
+##🔮 Future Improvements
 
 Integration with live database (SQL Server / MySQL)
 
@@ -196,8 +184,3 @@ Drill-through detail pages
 
 Advanced KPI benchmarking
 
-👩‍💻 Author
-
-Pragati Singh
-Aspiring Data Analyst skilled in Power BI, SQL, Python, and Excel.
-Passionate about transforming data into actionable insights.
